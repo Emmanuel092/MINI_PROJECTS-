@@ -1,0 +1,12 @@
+
+
+#MADLIBS PROGRAM
+THIS PROGRAMS MAIN FUNCTION IS TO ALLOW A USER TO ENTER WORDS TO FILL A PARAGRAPH THAT HAS A BUNCH OF BLANK SPACES
+IT Can be a cool game or can be used as a story telling tool , changing the story with each word the user decides to enter
+
+Using the concept of string concatenation
+
+in the Mad libs.py it has a conditional to check if the input is correct
+
+in thr choose_madlibs.py the code executed will choose a rondon script and allow you to enter words to fill the blanks
+for that script
